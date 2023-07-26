@@ -51,15 +51,15 @@ input {
 }
 
 .card-hover:hover {
-  filter: drop-shadow(0 0 5px #e77672);
+  filter: drop-shadow(0 0 5px #f14268);
 }
 
 .judul {
-  color: red;
+  color: #ea1744;
 }
 
 .btn-primary {
-  background-color: red !important;
+  background-color: #ea1744 !important;
   color: white;
   border: none !important;
 }
